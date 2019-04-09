@@ -1,5 +1,4 @@
 .idea
 testDesign.iml
 .gitignore
-pom.xml
 /target
