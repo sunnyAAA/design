@@ -1,11 +1,4 @@
 .idea
 testDesign.iml
-target/
-log/
-nohup.out
-.classpath
-.project
-.settings/
 .gitignore
 pom.xml
-src/
